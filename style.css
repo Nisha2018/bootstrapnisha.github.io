@@ -87,3 +87,11 @@ span{
 .hide{
 	display: none;
 }
+
+/*//////////Media Queries/////////*/
+
+@media (max-width: 600px){
+	.title{
+		padding: 100px 0 0 60px;
+	}
+}
